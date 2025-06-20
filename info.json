@@ -1,0 +1,21 @@
+{
+	"name" : "Gyrojob SEO",
+	"slug" : "001-gyrojob-seo",
+	"author" : "<a href='https://seoplugin.gyrojob.com'>M/s, Gyrojob</a>",
+	"author_profile" : "https://seoplugin.gyrojob.com",
+	"version" : "190.3.188",
+	"download_url" : "https://gyrojobjob.github.io/plugin/gyrojob-seo.zip",
+	"requires" : "6.8",
+	"tested" : "6.8",
+	"requires_php" : "5.2",
+	"last_updated" : "2025-06-30 02:10:00",
+	"sections" : {
+		"description" : "This simple plugin does nothing, only gets updates from a custom server",
+		"installation" : "Click the activate button and that's it.",
+		"changelog" : "<h4>190.0 –  1 august 2024</h4><ul><li>Bug fixes.</li><li>Initital release.</li></ul>"
+	},
+	"banners" : {
+		"low" : "https://seo.gyrojobs.com/banner-772x250.jpg",
+		"high" : "https://seo.gyrojobs.com/banner-772x250.jpg"
+	}
+}
